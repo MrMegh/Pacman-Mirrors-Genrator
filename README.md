@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux Logo" width="200" height="200">
+  <img src="https://www.archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux Logo">
 </div>
 
 # Arch Linux Mirrorlist Updater Script By Megh Badoniya
