@@ -54,7 +54,7 @@ The Arch Linux Mirrorlist Updater script automates the process of updating your 
 
 ## License
 
-### This project is licensed under the GNU License - see the LICENSE file for details.
+### This project is licensed under the GNU License - See the [LICENSE](./LICENSE) file for details.
 
 <div align="center">
   <sub>Built with ❤️ by Megh Badoniya</sub>
